@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AymenGhazouani
-- 👀 I’m interested in Game Dev
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on developping a new game
+- 👀 I’m interested in Game Dev,Web and App Dev.
+- 🌱 I’m currently learning C# and python
 - 📫 How to reach me : @AymenGhazouani
 
 <!---
