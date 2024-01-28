@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AymenGhazouani
-- 👀 I’m interested in Game Dev,Web and App Dev.
+- 👀 I’m interested in Game Dev,Web and Mobile Dev.
 - 🌱 I’m currently learning C# and python
 - 📫 How to reach me : @AymenGhazouani
 
