@@ -17,8 +17,6 @@ I'm a **Computer Engineering student** at ESPRIT, specializing in Web Technologi
 
 ### 📁 Featured Projects
 
-> **Tip:** Pin these repositories to your profile from your GitHub homepage for maximum visibility.
-
 1.  **Smart Entry – AI-Based Access Control**
     *   Developed a system featuring face mask detection (~95% accuracy) using TensorFlow.
     *   Implemented real-time data streaming with MQTT & Kafka. Built with Flutter & Node.js.
@@ -35,8 +33,5 @@ I'm a **Computer Engineering student** at ESPRIT, specializing in Web Technologi
 
 ### 📫 Let's Connect!
 
-I am actively seeking a challenging **PFE (Final Year Project) Internship for 2026** in the fields of AI, Full-Stack, or Cloud Development.
-
 *   **📧 Email:** aymeen.gh@gmail.com
 *   **💼 LinkedIn:** [/in/aymen-ghazouani](https://www.linkedin.com/in/aymen-ghazouani/)
-*   **📄 Resume:** [View my resume](Link_to_your_online_resume) *(Optional: You can host your PDF on GitHub and link it here)*
