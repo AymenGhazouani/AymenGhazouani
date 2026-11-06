@@ -1,8 +1,7 @@
 ### 👋 Hello, I'm Aymen Ghazouani
 
-I'm a **Computer Engineering student** at ESPRIT, specializing in Web Technologies and passionate about building intelligent, full-stack solutions. My focus lies at the intersection of **AI/Computer Vision**, **Cloud-Native Development**, and **Scalable Web Systems**.
+I'm an **IT Engineer**, specializing in Web Technologies and passionate about building intelligent, full-stack solutions. My focus lies at the intersection of **AI/Computer Vision**, **Cloud-Native Development**, and **Scalable Web Systems**.
 
-🔭 **Currently Working On:** My 2026 Final Year Project (PFE) and deepening my expertise in cloud architecture and applied machine learning.
 
 🌱 **Currently Learning:** Advanced cloud patterns on AWS, GenAI concepts, and system design principles.
 
