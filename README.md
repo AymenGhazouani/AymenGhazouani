@@ -1,36 +1,39 @@
 ### 👋 Hello, I'm Aymen Ghazouani
 
-I'm an **IT Engineer**, specializing in Web Technologies and passionate about building intelligent, full-stack solutions. My focus lies at the intersection of **AI/Computer Vision**, **Cloud-Native Development**, and **Scalable Web Systems**.
+**IT Engineer** building full-stack products where **AI / Computer Vision** meets **cloud-native backends** and **clean, scalable web systems**.
 
+I like taking an idea all the way: data model → API → UI → deployment.
 
-🌱 **Currently Learning:** Advanced cloud patterns on AWS, GenAI concepts, and system design principles.
+---
 
-### 🛠️ Technical Skills
+### 🚀 What I'm building
 
-*   **AI & Data Science:** Python, TensorFlow, YOLOv8, Anomaly Detection, Predictive Maintenance
-*   **Cloud & DevOps:** AWS (Cloud Foundations), Docker, CI/CD, Linux
-*   **Backend:** Node.js, Spring Boot, Django, RESTful APIs
-*   **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS
-*   **Databases:** MongoDB, PostgreSQL, MySQL
-*   **Tools:** Git, GitHub, API Integration
+- **Pocket BSE** — field-operations platform for solar installers: a Flutter (Android) app, a Supabase/PostgreSQL backend with row-level security, and an in-app admin dashboard. *Private.*
+- **cv-bot** — an AI pipeline that reads a job ad, tailors a LaTeX CV, writes a matching motivation letter and compiles both to PDF. CLI + web UI, model rotation with fallback, application tracking. *Private.*
 
-### 📁 Featured Projects
+### 📁 Featured projects
 
-1.  **Smart Entry – AI-Based Access Control**
-    *   Developed a system featuring face mask detection (~95% accuracy) using TensorFlow.
-    *   Implemented real-time data streaming with MQTT & Kafka. Built with Flutter & Node.js.
-    *   *Skills: Computer Vision, IoT Integration, Real-time Systems*
+| Project | What it is | Stack |
+|---|---|---|
+| [Party Pack LAN](https://github.com/AymenGhazouani/party-pack-lan) | Couch multiplayer party game collection for Android — host-authoritative 60 Hz simulation over the local network | Flutter, Flame, TCP/UDP |
+| Tunisia Navigator | Multi-stop route optimizer and turn-by-turn navigation web app for Tunisia | JavaScript, Leaflet, OSRM, Docker |
+| Smart Entry | AI-based access control with face-mask detection and real-time streaming | TensorFlow, MQTT, Kafka, Flutter, Node.js |
+| Clinical Surveillance | Real-time people detection and occupancy monitoring | React, Spring Boot, MongoDB, YOLOv8, Docker |
+| 3D E-Museum | Interactive 3D web experience focused on rendering performance | Three.js, WebGL |
 
-2.  **Clinical Surveillance Application**
-    *   Full-stack web app with real-time people detection and occupancy monitoring using YOLOv8.
-    *   Built with React, Spring Boot, MongoDB, and containerized with Docker.
-    *   *Skills: Full-Stack Development, Docker, Computer Vision Integration*
+### 🛠️ Technical skills
 
-3.  **3D E-Museum Platform**
-    *   Interactive 3D web experience built with Three.js and WebGL, focused on frontend performance.
-    *   *Skills: 3D Web Graphics, Frontend Optimization*
+**AI & Data** · Python, TensorFlow, YOLOv8, anomaly detection, predictive maintenance  
+**Mobile** · Flutter, Dart, Android  
+**Backend** · Node.js, Spring Boot, Django, REST APIs, PostgreSQL, Supabase, MongoDB, MySQL  
+**Frontend** · React, Next.js, TypeScript, Tailwind CSS, Leaflet  
+**Cloud & DevOps** · AWS, Docker, CI/CD, Linux, Git
 
-### 📫 Let's Connect!
+### 🌱 Currently
 
-*   **📧 Email:** aymeen.gh@gmail.com
-*   **💼 LinkedIn:** [/in/aymen-ghazouani](https://www.linkedin.com/in/aymen-ghazouani/)
+Deepening cloud architecture on AWS, GenAI patterns, and system design.
+
+### 📫 Reach me
+
+- **Email:** [aymeen.gh@gmail.com](mailto:aymeen.gh@gmail.com)
+- **LinkedIn:** [in/aymen-ghazouani-908419256](https://www.linkedin.com/in/aymen-ghazouani-908419256/)
